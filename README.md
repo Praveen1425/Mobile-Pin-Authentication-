@@ -1,5 +1,8 @@
 # MPIN Checker Project
 
+
+Live Demo 🛩️: https://praveen1425-mobile-pin-authentication--app-5bhccj.streamlit.app/
+
 ## 🧾 Alignment with MPIN Task
 This project was built for the MPIN Strength Checker task assigned by OneBanc.
 It implements all requirements from Part A to Part E, and includes both CLI and web (Streamlit) interfaces for testing and demonstration.
